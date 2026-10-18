@@ -1,0 +1,6 @@
+{
+  "name": "Fundo Branco",
+  "description": "Uma tela com fundo branco limpo, minimalista e ajustável.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
